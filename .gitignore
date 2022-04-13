@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+/MariaDB-Data
+/.idea
+bin
+obj

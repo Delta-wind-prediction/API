@@ -34,7 +34,7 @@ jobs:
   docker:
     name: Docker build
     runs-on: ubuntu-20.04
-    needs: [ build, unit-test ]
+    needs: [ build ]
     steps:
       - uses: actions/checkout@v2
       - name: Build the image

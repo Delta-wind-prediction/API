@@ -51,7 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-/MariaDB-Data
+/DataBase
 /.idea
 bin
 obj
